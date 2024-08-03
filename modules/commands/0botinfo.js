@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "botinfo",
 	version: "1.0.1", 
 	hasPermssion: 0,
-	credits: "Arun Kumar", //don't change the credits please
+	credits: "Nihal HACKER", //don't change the credits please
 	description: " Bot info.",
 	commandCategory: "system",
 	cooldowns: 1,
